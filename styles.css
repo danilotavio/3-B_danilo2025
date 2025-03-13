@@ -65,7 +65,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--verde-claro);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -77,7 +77,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--verde-claro);
 }
 
 
@@ -110,7 +110,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #b3b3b3;
 
 }
 
@@ -120,7 +120,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/cinza;
+    background-image: url('img/plano\ cinza;
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -146,5 +146,5 @@ h2 {
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #210838;
 }
